@@ -1,0 +1,58 @@
+Compartilhar o link do Miro e habilitar que pessoas de fora vejam ou enviar prints no Slack;
+
+NPS - Net Performance Score - Numa escala de 0 a 10, quanto o usuário recomendaria a, Empresa/Produto/Serviço a um amigo?
+
+Matriz CSD - Matriz Colaborativa - Certezas / Suposições / Dúvidas
+
+CERTEZAS:
+
+ - Aumentar a retenção de alunos já matriculados;
+ - Aumentar a taxa de novas matrículas.
+
+SUPOSIÇÕES:
+
+ - Criar um canal de comunicação direto com com os alunos (eventualmente, com os outros envolvidos no Negócio);
+ - Obter os dados de cada aluno e devolver como resultado as datas em que fizeram Novas Fichas e Avaliações;
+ - Verificar o que é esperado pelos alunos e abordar suposições para melhorias, afim do aumento do NPS;
+ - Automatizar a obtenção de dados dos alunos (intrínseco ao segundo ítem das SUPOSIÇÕES;
+
+
+DÚVIDAS:
+
+ - Quanto o cliente está disposto a pagar, dependendo da abrangência do Produto;
+ - Criação de canal direto com outros membros envolvidos no Negócio;
+ - Criação de um "robô" para a obtenção automática dos dados de cada aluno, a depender de algum banco de dados ou formulário (até a digitalização de fichas de papel);
+
+FIGMA - Ferramenta de protótipos (bonecos).
+
+_____________________________________________________________________________________________________________
+
+CASE: PMFit - Rede de academias.
+
+ - Aumentar a retenção de alunos;
+ - Melhorar a aquisição de novos alunos.
+
+
+_____________________________________________________________________________________________________________
+
+Focar mais nos alunos, pois as soluções principais relacionam-se aos mesmos.
+
+Perguntas bem definidas - objetivas. 
+
+Boas Práticas - P	riorização do "Perfil de Usuário" - ATENÇÃO e Observação de padrões.
+
+_____________________________________________________________________________________________________________
+
+
+Insights - App NOTION(?)
+
+Description Search - Pesquisa de Mercado
+
+Não se apegar aos produtos
+
+O Produto deve gerar impacto no negócio, não, no seu curriculum ou na sua rede de amigos/colegas
+
+Saber lidar e apresentar dados Macro
+
+DISCOVERY - Descobrir o máximo de informações sobre seu produto e seus usuários. 
+
